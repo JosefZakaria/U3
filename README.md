@@ -8,6 +8,9 @@ Simply open the project in your IDE and run the main class. No additional setup 
 **Features**
 
 Menu of cakes and pastries
+
 Order creation and order history
+
 Automatic price calculation
+
 MVC architecture
