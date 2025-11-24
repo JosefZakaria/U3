@@ -6,6 +6,7 @@ A Java MVC application for managing bakery orders, created for assignment U3 in 
 Simply open the project in your IDE and run the main class. No additional setup required.
 
 **Features**
+
 Menu of cakes and pastries
 Order creation and order history
 Automatic price calculation
